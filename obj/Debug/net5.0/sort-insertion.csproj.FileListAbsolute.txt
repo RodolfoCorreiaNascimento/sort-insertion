@@ -1,0 +1,16 @@
+C:\Users\RudeB\OneDrive\Área de Trabalho\Sort\sort-insertion\bin\Debug\net5.0\sort-insertion.exe
+C:\Users\RudeB\OneDrive\Área de Trabalho\Sort\sort-insertion\bin\Debug\net5.0\sort-insertion.deps.json
+C:\Users\RudeB\OneDrive\Área de Trabalho\Sort\sort-insertion\bin\Debug\net5.0\sort-insertion.runtimeconfig.json
+C:\Users\RudeB\OneDrive\Área de Trabalho\Sort\sort-insertion\bin\Debug\net5.0\sort-insertion.runtimeconfig.dev.json
+C:\Users\RudeB\OneDrive\Área de Trabalho\Sort\sort-insertion\bin\Debug\net5.0\sort-insertion.dll
+C:\Users\RudeB\OneDrive\Área de Trabalho\Sort\sort-insertion\bin\Debug\net5.0\ref\sort-insertion.dll
+C:\Users\RudeB\OneDrive\Área de Trabalho\Sort\sort-insertion\bin\Debug\net5.0\sort-insertion.pdb
+C:\Users\RudeB\OneDrive\Área de Trabalho\Sort\sort-insertion\obj\Debug\net5.0\sort-insertion.csprojAssemblyReference.cache
+C:\Users\RudeB\OneDrive\Área de Trabalho\Sort\sort-insertion\obj\Debug\net5.0\sort-insertion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RudeB\OneDrive\Área de Trabalho\Sort\sort-insertion\obj\Debug\net5.0\sort-insertion.AssemblyInfoInputs.cache
+C:\Users\RudeB\OneDrive\Área de Trabalho\Sort\sort-insertion\obj\Debug\net5.0\sort-insertion.AssemblyInfo.cs
+C:\Users\RudeB\OneDrive\Área de Trabalho\Sort\sort-insertion\obj\Debug\net5.0\sort-insertion.csproj.CoreCompileInputs.cache
+C:\Users\RudeB\OneDrive\Área de Trabalho\Sort\sort-insertion\obj\Debug\net5.0\sort-insertion.dll
+C:\Users\RudeB\OneDrive\Área de Trabalho\Sort\sort-insertion\obj\Debug\net5.0\ref\sort-insertion.dll
+C:\Users\RudeB\OneDrive\Área de Trabalho\Sort\sort-insertion\obj\Debug\net5.0\sort-insertion.pdb
+C:\Users\RudeB\OneDrive\Área de Trabalho\Sort\sort-insertion\obj\Debug\net5.0\sort-insertion.genruntimeconfig.cache
